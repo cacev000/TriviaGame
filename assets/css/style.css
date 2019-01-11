@@ -1,13 +1,8 @@
-/* .reset-container {
-    position: relative;
-    height: 100vh;
-    border: 1px solid;
+.answer-style {
+    margin-bottom: 10px;
+    margin-right: 10px;
 }
 
-.reset-jumbotron {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border: 1px dashed deeppink;
-} */
+.start-over-style {
+    margin-top: 10px;
+}
