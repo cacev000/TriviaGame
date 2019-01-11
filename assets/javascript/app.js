@@ -143,7 +143,10 @@ $(document).ready(function() {
             }, 3000);
         } else {
             clearInterval(startCounter);
-            lastPage();
+
+            setTimeout(function() {
+                lastPage();
+            }, 3000);
         }
     }
 
